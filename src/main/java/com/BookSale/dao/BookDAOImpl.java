@@ -89,7 +89,7 @@ public class BookDAOImpl implements BookDAO {
 			c.setCollegeName(ce.getCollegeName());
 			c.setCustomerId(ce.getCustomerId());
 			c.setCustomerName(ce.getCustomerName());
-			c.setPassword(ce.getPassword());
+			
 			c.setContactNumber(ce.getContactNumber());
 			book.setCustomer(c);
 			bookList.add(book);
