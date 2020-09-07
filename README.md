@@ -1,3 +1,2 @@
 # M.M
-Material management for 
-items in shops
+a online book store
